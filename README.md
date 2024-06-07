@@ -8,7 +8,7 @@ I probably not gonna post the details of my physical keyboard build as
 
 the size and placement of the keys are created by my taste.
 
-I recommend you to design the physical machine by your likeings
+I recommend you to design the physical machine by your taste
 
 Default :
 
