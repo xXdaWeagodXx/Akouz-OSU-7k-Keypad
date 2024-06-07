@@ -1,0 +1,31 @@
+{
+    "keyboard_name": "Akouz's OSU 7k",
+    "manufacturer": "Akouz",
+    "url": "https://www.youtube.com/channel/UCfn845tEa2im_Ps_k-prNCw",
+    "maintainer": "qmk",
+    "usb": {
+        "vid": "0x415A",
+        "pid": "0x376B",
+        "device_version": "3.1.1"
+    },
+    "matrix_pins": {
+        "cols": ["D0","D4","C6", "D7", "E6", "B4", "B5"],
+        "rows": ["B2"]
+    },
+    "diode_direction": "COL2ROW",
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    "layouts": {
+        "LAYOUT_akouz_7k": {
+            "layout": [
+                {"x": 0, "y": 0, "matrix": [0, 0]},
+                {"x": 1, "y": 0, "matrix": [0, 1]},
+                {"x": 2, "y": 0, "matrix": [0, 2]},
+                {"x": 3, "y": 0, "matrix": [0, 3]},
+                {"x": 4, "y": 0, "matrix": [0, 4]},
+                {"x": 5, "y": 0, "matrix": [0, 5]},
+                {"x": 6, "y": 0, "matrix": [0, 6]}
+            ]
+        }
+    }
+}
