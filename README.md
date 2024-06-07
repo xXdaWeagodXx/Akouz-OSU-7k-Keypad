@@ -1,6 +1,19 @@
 # Introduction
 
 This is a OSU!mania 7 key keypad [QMK firmware](https://github.com/qmk/qmk_firmware) created by [me](https://www.youtube.com/channel/UCfn845tEa2im_Ps_k-prNCw).
+You can put it in the "keyboard" folder and compile it with [QMK MSYS](https://msys.qmk.fm/)
+
+Default :
+
+```cmd
+qmk compile -kb akouzosu7 -km default
+```
+
+VIA :
+
+```cmd
+qmk compile -kb akouzosu7 -km via
+```
 
 ## Feature
 
