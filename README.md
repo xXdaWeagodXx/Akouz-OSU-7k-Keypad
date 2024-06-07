@@ -4,12 +4,6 @@ This is a OSU!mania 7 key keypad [QMK based keyboard](https://github.com/qmk/qmk
 
 You can put it in the "keyboard" folder and compile it with [QMK MSYS](https://msys.qmk.fm/)
 
-I probably not gonna post the details of my physical keyboard build as
-
-the size and placement of the keys are created by my taste.
-
-I recommend you to design the physical machine by your taste :)
-
 Default :
 
 ```cmd
@@ -21,6 +15,12 @@ VIA :
 ```cmd
 qmk compile -kb akouzosu7 -km via
 ```
+
+I probably not gonna post the details of my physical keyboard build as
+
+the size and placement of the keys are created by my taste.
+
+I recommend you to design the physical machine by your taste :)
 
 ## Feature
 
@@ -106,3 +106,13 @@ Changes can refer to [VIA documentation](https://www.caniusevia.com/docs/built_i
   "Solid Reactive Simple"
 ]
 ```
+
+## Caution
+
+Since QMK firmware is constanly getting updated,
+
+some command or defines could be changed thus older version of this keyboard might not be able to compile.
+
+You could check the error message and commit changes to the code.
+
+Or, you could take this code as a reference.
