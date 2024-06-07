@@ -4,6 +4,12 @@ This is a OSU!mania 7 key keypad [QMK based keyboard](https://github.com/qmk/qmk
 
 You can put it in the "keyboard" folder and compile it with [QMK MSYS](https://msys.qmk.fm/)
 
+I probably not gonna post the details of my physical keyboard build as
+
+the size and placement of the keys are created by my taste.
+
+I recommend you to design the physical machine by your likeings
+
 Default :
 
 ```cmd
